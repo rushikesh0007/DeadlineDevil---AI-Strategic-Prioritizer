@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# DeadlineDevil 😈
+### AI Strategic Prioritizer
 
-# Run and deploy your AI Studio app
+An AI-powered productivity companion that transforms chaotic deadlines into structured action plans.
 
-This contains everything you need to run your app locally.
+## 🔥 Features
+- **Panic Mic** — Speak your panic, AI builds your plan
+- **Smart Timeline** — AI prioritizes tasks by urgency automatically  
+- **Locked Focus Shield** — AI negotiates with you when you try to delay
+- **Anti-Cheat System** — Catches you when you try to escape tasks
+- **Google Calendar Integration** — Syncs your schedule automatically
+- **Subject Specific Steps** — AI gives relevant steps for each task
 
-View your app in AI Studio: https://ai.studio/apps/e0175aef-4977-4dd4-9b28-f71a92038326
+## 🛠️ Built With
+- Google AI Studio
+- Gemini API
+- Google Calendar API
+- TypeScript + React
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Live App
+https://deadlinedevil-494163931129.us-west1.run.app
