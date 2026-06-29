@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineDevil",
+  "description": "An AI-powered productivity planner that structures chaotic tasks, prioritizes by urgency, schedules check-ins, and offers polite, supportive, devilish encouragement.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
